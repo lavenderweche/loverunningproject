@@ -18,7 +18,9 @@ body {
 header {
     background-color: aqua;
 }
-
+h1{
+    font-family:'Oswald', sans-serif
+}
 main {
     background-color: orange;
     /* Make main element take up any surplus space to push down footer */
