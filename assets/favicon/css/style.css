@@ -118,9 +118,14 @@ footer {
         line-height: 75px;
         margin: 0 0.5rem;
     }
-
     /*Push content down to accomodate  larger header */
     main{
         margin-top: 79px;
+    }
+}
+
+@media screen and (min-width: 992px){
+    #menu a:hover{
+border-bottom: 1px solid #3a3a3a;
     }
 }
